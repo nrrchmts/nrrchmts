@@ -2,10 +2,9 @@
 
 I am Nurrochmat Saptoaji 🧔
 
-I live in Indonesia and graduate from computer science at Singaperbangsa Karawang University.
+I live in Indonesia and graduate from computer science at Singaperbangsa Karawang University. I am currently working as full stack developer in my startup then IT Staff in a company.
 
-## ⚡ Technologies
-
+## ⚡ Technologies on use
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
@@ -18,8 +17,10 @@ I live in Indonesia and graduate from computer science at Singaperbangsa Karawan
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<br />
-<br />
+## Contact and support
+- 💬 Ask me about anything and everything.
+- 📫 Read my blogs: [![MEDIUM](https://img.shields.io/badge/FOLLOW%20ME-MEDIUM-orange&logo=medium)](https://medium.com/@nrrchmts)
+- 🎯 Check out my Instagram page (50k followers): [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/nrrchmts/)
 
 
 <!--
